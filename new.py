@@ -1,6 +1,4 @@
-
-
-#print(get_shop_list_by_dishes(['Запеченный картофель', 'Жаренный картофель'], 5))
+#решение 1й и 2й задач
 def get_shop_list_by_dishes(dishes, person_count):
     ingredient_dict = {}
     for dish in dishes:

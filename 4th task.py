@@ -1,3 +1,4 @@
+# Решение 3й задачи
 all_files_set = []
 
 with open('1.txt') as f:
